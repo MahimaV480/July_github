@@ -1,0 +1,2 @@
+Hello this is new notepad in my git local repository.
+I want to import this into the GitHub.
